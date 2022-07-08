@@ -1,7 +1,7 @@
 # defer-stream-test
 
 This repo is intended just to test @defer and @stream directive with yoga.
-It's strictly related to an issue opened on yoga repository ().
+It's strictly related to an issue opened on yoga repository (https://github.com/dotansimha/graphql-yoga/issues/1372).
 
 # Installation
 

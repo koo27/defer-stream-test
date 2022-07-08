@@ -1,0 +1,19 @@
+{
+  "name": "defer-and-stream-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start-urql": "node urql/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^8.5.0",
+    "@graphql-yoga/node": "^2.12.0",
+    "graphql": "^16.5.0"
+  },
+  "description": ""
+}
